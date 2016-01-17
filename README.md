@@ -7,7 +7,7 @@ Dataset consists in a training set of 261 features for around 250.000 observatio
 
 The predictive model developped here consists in averaging two simple predictive models (Gradient Boosted classification and K Nearest Neighbours classification). Parameters tuning has been performed thanks to the benchmark scripts.
 
-This model gets a score of 0.96144, where the leader reaches a score of 0.97006 (score comuted on a test set with the  area under the ROC curve metric).
+This model gets a score of 0.96144, where the leader reaches a score of 0.97006 (score computed on a test set with the area under the ROC curve metric).
 
 #### Files
 
